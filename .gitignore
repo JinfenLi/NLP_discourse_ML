@@ -1,0 +1,9 @@
+.idea/
+.classpath
+.project
+data/
+ML/saved_model/Wiki
+ML/saved_model/Treebank/TEST/
+ML/saved_model/Treebank/TRAINING/
+stanford-corenlp
+ML/features/biaffine-dependency-parser-ptb-2018.08.23.tar.gz
