@@ -28,7 +28,7 @@ Due to the licence of RST data corpus, we can't include the data in our project 
                       
     >parse type, including Treebank and any other type of data: --parse_type [Treebank | Your data with the dir name under folder of data]
                       
-    >Set True to use RN~model and False to use N~model: --isFlat [True|False]
+    >Set True to use RN\~model and False to use N\~model: --isFlat [True|False]
                       
     >use Stanford CoreNLP tool to parse data first: --preprocess [True|False]
                                                                                                                                                                                                                                                                                                                                                                                                              
