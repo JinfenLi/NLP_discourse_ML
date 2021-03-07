@@ -116,7 +116,7 @@ class Evaluator(object):
                 doc.read_from_fmerge(lines)
                 # ----------------------------------------
                 # Parsing
-                pred_rst = self.parser.sr_parse(doc, bcvocab)
+                pred_rst = self.parser.sr_parse(doc, self.isFlat, bcvocab)
 
                 # if draw:
                 #     pred_rst.draw_rst(fmerge.replace(".merge", ".ps"))
