@@ -13,12 +13,12 @@ Due to the licence of RST data corpus, we can't include the data in our project 
                                    
     >pip install requirements.txt
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-2. Download Resources:
+<!-- 2. Download Resources:
 
     
-    This project relies on Stanford CoreNLP toolkit to preprocess the data. You can download from [here](http://stanfordnlp.github.io/CoreNLP/index.html) and put the file [run_corenlp.sh](./run_corenlp.sh) into the CoreNLP folder. Then use the following command to preprocess both the data in train_dir and in test_dir.
+    This project relies on Stanford CoreNLP toolkit to preprocess the data. You can download from [here](http://stanfordnlp.github.io/CoreNLP/index.html) and put the file [run_corenlp.sh](./run_corenlp.sh) into the CoreNLP folder. Then use the following command to preprocess both the data in train_dir and in test_dir. -->
     
-3. Configurations
+2. Configurations
 
     >directory of data: --data_dir [../data/TRAINING | ../data/TEST]
                       
